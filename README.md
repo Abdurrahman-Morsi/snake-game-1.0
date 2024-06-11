@@ -26,28 +26,28 @@ The Snake game is a classic arcade game where the player controls a snake that m
     ```
     git clone https://github.com/Abdurrahman-Morsi/snake-game-1.0.git
     ```
-
-2. Install the required dependencies:
-
-    ```
-    pip install pygame
-    ```
-
-## Usage
-
+    
 1. Navigate to the project directory:
 
     ```
     cd snake-game-1.0
     ```
+    
+1. Install the required dependencies:
 
-2. Run the main Python file:
+    ```
+    pip install -r requirements.txt
+    ```
+
+## Usage
+
+1. Run the project Python file:
 
     ```
     python project.py
     ```
 
-3. Follow the on-screen instructions to play the game.
+1. Follow the on-screen instructions to play the game.
 
 ## Controls
 
