@@ -64,4 +64,4 @@ This project was developed by Abdurrahman Morsi and is licensed under the [MIT L
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 
